@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @pmaadhi
-- 👀 I’m interested in Html and Css
-- 🌱 I’m currently learning Python as additional 
-- 💞️ I’m looking to collaborate on nothin
-- 📫 How to reach me - https://greendragonwebsite.pythonanywhere.com/
-
+- 👋 Hi, I’m Madhan Aadithya
+- 👀 I’m interested in Html, Css and Js
+- 🌱 I’m currently learning Backend as additional 
+- 💞️ I'm good at git bash
+- 📫 How to reach me - https://madhan.netlify.app/
