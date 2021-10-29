@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Madhan Aadithya
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend as additional 
+- 👋 Hello, I’m Madhan Aadithya
+- I want to be a Full Stack Developer
+- I'm currently learning javascript
 - 💞️ I'm good at git bash
-- 📫 How to reach me - https://madhan.netlify.app/
+- 📫 Portfolio - https://madhan.netlify.app/
