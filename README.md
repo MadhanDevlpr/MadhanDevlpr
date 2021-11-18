@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍Portfolio - https://madhan.netlify.app
+- 👨‍Portfolio - https://madhan.herokuapp.com
 
 ## 🚀 Languages and Tools:
 
