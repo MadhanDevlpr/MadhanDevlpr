@@ -15,15 +15,15 @@
 <br>
 <p align="left">
     <a href="https://github.com/MadhanDevlpr/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MadhanDevlpr's streak" src="https://github-readme-streak-stats.herokuapp.com?user=MadhanDevlpr&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MadhanDevlpr's streak" src="https://github-readme-streak-stats.herokuapp.com?user=MadhanDevlpr&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/MadhanDevlpr/github-readme-stats"><img alt="MadhanDevlpr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhanDevlpr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MadhanDevlpr/github-readme-stats"><img alt="MadhanDevlpr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanDevlpr&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/MadhanDevlpr/github-readme-stats"><img alt="MadhanDevlpr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhanDevlpr&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MadhanDevlpr/github-readme-stats"><img alt="MadhanDevlpr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanDevlpr&langs_count=8&count_private=true&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
