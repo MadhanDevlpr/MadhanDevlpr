@@ -1,36 +1,32 @@
+### Hi there, I'm Madhan Aadithya
+
+[![Website](https://img.shields.io/website?label=MY_PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fmadhan-developer.herokuapp.com)](https://madhan-developer.herokuapp.com)
+
+## I'm a Student, Front-end Developer and a UI Designer!!
+
+- 🖥  I’m currently learning Advanced Javascript 🚀 
+
+- 🎬  I’m looking to collaborate in Open Source Projects 🔧 
+
+- 🎯  2022 Goals: Develop the base of my css framework 🤹🏽‍♂️  and be more active on github 🤸🏽‍♂️.
+
+- 🧩 Do you know? : Python is 4 years older than Javascript 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madhan</h1>
-<h3 align="center">I'm a Front end Developer.</h3>
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 
-## 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning **ML**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍Portfolio - https://madhan-developer.herokuapp.com
-
-<br>
-<p align="left">
-    <a href="https://github.com/MadhanDevlpr/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MadhanDevlpr's streak" src="https://github-readme-streak-stats.herokuapp.com?user=MadhanDevlpr&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/MadhanDevlpr/github-readme-stats"><img alt="MadhanDevlpr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhanDevlpr&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MadhanDevlpr/github-readme-stats"><img alt="MadhanDevlpr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanDevlpr&langs_count=8&count_private=true&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-
-<br/>
-<br/>
-
-
-<br/>
-<br/>
-
+Portfolio -  https://madhan-developer.herokuapp.com
