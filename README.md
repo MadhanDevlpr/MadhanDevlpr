@@ -14,7 +14,7 @@
 
   - 🎬  I’m looking to collaborate in Open Source Projects 🔧 .
 
-  - 🎯  2022 Goals: Develop the base of my css framework 🤹🏽‍♂️  and be more active on github 🤸🏽‍♂️.
+  - 🎯  2022 Goals: Develop the base of my python library 🤹🏽‍♂️  and be more active on github 🤸🏽‍♂️.
 
   - 🧩 Do you know? : Python is 4 years older than Javascript .
   
