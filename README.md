@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  - 🖥  I’m currently learning Advanced Javascript 🚀 .
+  - 🖥  Robotics for 2022 🚀 .
 
   - 🎬  I’m looking to collaborate in Open Source Projects 🔧 .
 
