@@ -50,13 +50,13 @@
 
 <br />
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/?username=MadhanDevlpr&hide_border=true&count_private=true&theme=gruvbox&showicons=true"></img></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/?username=MadhanDevlpr&hide_border=true&count_private=true&theme=synthwave&showicons=true"></img></p>
 
 ### My Language Stats:
 
 <br />
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanDevlpr&hide_border=true&langs_count=8&theme=gruvbox"></img></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanDevlpr&hide_border=true&langs_count=8&theme=synthwave"></img></p>
 
 <br />
 
