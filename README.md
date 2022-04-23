@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Madhan Aadithya</h1>
 
-<p align="center"><img src="https://img.shields.io/website?label=MY_PORTFOLIO&style=for-the-badge&color=%23f0e7b8&url=https%3A%2F%2Fmadhan-developer.herokuapp.com"></img> <img alt="GitHub followers" src="https://img.shields.io/github/followers/MadhanDevlpr?color=%23f0e7b8&style=for-the-badge"></img></p>
+<p align="center"><img src="https://img.shields.io/website?label=MY_PORTFOLIO&style=for-the-badge&color=violet&url=https%3A%2F%2Fmadhan-developer.herokuapp.com"></img> <img alt="GitHub followers" src="https://img.shields.io/github/followers/MadhanDevlpr?color=violet&style=for-the-badge"></img></p>
 <br />
 <br />
 
