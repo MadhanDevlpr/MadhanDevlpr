@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm MadhanDevlpr</h1>
 
-<p align="center"><img src="https://img.shields.io/website?label=MY_PORTFOLIO&style=for-the-badge&color=violet&url=https%3A%2F%2Fmadhan-developer.herokuapp.com"></img> <img alt="GitHub followers" src="https://img.shields.io/github/followers/MadhanDevlpr?color=violet&style=for-the-badge"></img></p>
+<p align="center"><img src="https://img.shields.io/website?label=MY_PORTFOLIO&style=for-the-badge&color=blue&url=https%3A%2F%2Fmadhan-developer.herokuapp.com"></img> <img alt="GitHub followers" src="https://img.shields.io/github/followers/MadhanDevlpr?color=blue&style=for-the-badge"></img></p>
 <br />
 <br />
 
@@ -50,13 +50,13 @@
 
 <br />
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/?username=MadhanDevlpr&hide_border=true&count_private=true&theme=synthwave&showicons=true"></img></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/?username=MadhanDevlpr&hide_border=true&count_private=true&theme=blue&showicons=true"></img></p>
 
 ### My Language Stats:
 
 <br />
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanDevlpr&hide_border=true&langs_count=8&theme=synthwave"></img></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanDevlpr&hide_border=true&langs_count=8&theme=blue"></img></p>
 
 <br />
 
