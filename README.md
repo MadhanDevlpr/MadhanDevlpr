@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  - 🖥  Robotics for 2022 🚀 .
+  - 🖥  Hacking for 2022 🚀 .
 
   - 🎬  I’m looking to collaborate in Open Source Projects 🔧 .
 
