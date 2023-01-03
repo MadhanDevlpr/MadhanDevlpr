@@ -5,16 +5,14 @@
 <br />
 
 
-<h2 align="center"> I'm a Student, Front-end Developer and a UI Designer!!</h2>
+<h2 align="center"> I'm a Student, Developer and a UI Designer!!</h2>
 <br />
 
 <div align="center">
 
-  - 🖥  Hacking for 2022 🚀 .
-
-  - 🎬  I’m looking to collaborate in Open Source Projects 🔧 .
-
-  - 🎯  2022 Goals: Develop the base of my python library 🤹🏽‍♂️  and be more active on github 🤸🏽‍♂️.
+  - Work hard / harder / hardest
+  
+  - Concentrate on what you're bad in your good.
 
   - 🧩 Do you know? : Python is 4 years older than Javascript .
   
