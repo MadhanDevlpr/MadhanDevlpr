@@ -6,6 +6,16 @@
 
 
 <h2 align="center"> I'm a Student, Developer and a UI Designer!!</h2>
+
+I use canva , css, html myself as a designer, when things get out of hands Krita gets to make things more cool.
+
+As a developer, I mainly create websites with JS and HTML and use SCSS for the style, (icons: bootstrap, fontawesome)
+
+As a student (most important):
+
+I like the math 100% which helps me through everything and science too creates a big impact on hardware.
+
+
 <br />
 
 <div align="center">
