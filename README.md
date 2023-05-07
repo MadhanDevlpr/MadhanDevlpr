@@ -14,6 +14,8 @@ As a student (most important):
 
 I like the math 100% which helps me through everything and science too creates a big impact on hardware.
 
+No more web developing
+
 
 <br />
 
